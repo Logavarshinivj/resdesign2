@@ -1,0 +1,63 @@
+ *{
+
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .top-bar h1 ,.top-bar h4
+{
+    text-align: center;
+    
+}
+body {
+    border: 2px solid black;
+    
+    
+}
+/* 
+body{
+    background-image: url('dj.jpg');
+  } */
+
+img{
+    width:35%; 
+    margin:10px; 
+    border-radius: 50%;  
+}
+.content{
+    display:flex; 
+     background-color: rgb(241, 95, 95) 
+   
+}
+.input-area{
+    margin:100px;
+}
+/* input{
+    text-align: left;
+}
+
+label{
+    display: table-cell;
+    text-align: right;
+}
+input {
+  display: table-cell;
+}  */
+
+label {
+    display: inline-block;
+    text-align: right;
+    width:150px;
+    
+}
+
+div.row{
+    margin-bottom:10px;
+}
+.button{
+    align-items: center;
+    text-align: center;  
+}
+button{
+    
+    margin:10px;
+}
+
